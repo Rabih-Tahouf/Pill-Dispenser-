@@ -518,4 +518,7 @@ digitalWrite(buzzer, LOW);
 
 delay(100);
 }
-A9: Machine code
+I DELETED THIS
+
+
+I ADDED THIS
